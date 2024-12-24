@@ -88,7 +88,7 @@ cocktail-bar/
 1. 克隆或下载本项目到本地：
 
    ```bash
-   git clone https://github.com/your-repo/cocktail-bar.git
+   git clone https://github.com/mikoto0418/cocktail-bar.git
    cd cocktail-bar
    ```
 
